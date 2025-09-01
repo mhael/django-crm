@@ -37,7 +37,7 @@ DATABASES = {
 
         'NAME': 'DjangoCRM',
         'USER': 'postgres',
-        'PASSWORD': 'crmpass',
+        'PASSWORD': '4PostgeSQL2025',
         'HOST': '127.0.0.1',
     }
 }
